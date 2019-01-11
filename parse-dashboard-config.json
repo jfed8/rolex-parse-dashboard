@@ -3,7 +3,7 @@
     {
       "serverURL": "https://rolex-parse-server.herokuapp.com/parse",
       "appId": "myAppId",
-      "masterKey": "myMasterKey",
+      "masterKey": "RolexMasterTest",
       "appName": "MyApp"
     }
   ],

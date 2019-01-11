@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://rolex-parse-server.herokuapp.com/",
+      "appId": "myAppId",
+      "masterKey": "myMasterKey",
+      "appName": "Rolex Parse Server App"
+    }
+  ],
+  "users": [
+    {
+      "user":"user1",
+      "pass":"Rolexpass"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "apps": [
     {
       "serverURL": "https://rolex-parse-server.herokuapp.com/parse",
-      "appId": "myAppId",
+      "appId": "LocktimeApp8416",
       "masterKey": "RolexMasterTest",
       "appName": "MyApp"
     }
